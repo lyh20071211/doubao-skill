@@ -40,3 +40,9 @@ Key 获取：https://console.volcengine.com/ark/region:ark+cn-beijing/apiKey
 ## License
 
 MIT
+
+## Examples（演示）
+
+- 🎨 卡通 UI 页面：[examples/cartoon-ui/index.html](examples/cartoon-ui/index.html)（吉祥物由豆包 Seedream 生成，代码由 DeepSeek 编写）
+- 🎬 10 秒卡通宣传动画：[examples/promo/promo-10s.mp4](examples/promo/promo-10s.mp4) / [GIF](examples/promo/promo-10s.gif)，生成脚本 [generate_promo.py](examples/promo/generate_promo.py)
+
