@@ -1,0 +1,4 @@
+﻿interface:
+  display_name: "豆包（视觉/生图/视频）"
+  short_description: "调用豆包：图片识别、Seedream 生图改图、Seedance 视频生成"
+  default_prompt: "Use $doubao to describe this image / generate a cartoon image / create a video."
